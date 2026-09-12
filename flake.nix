@@ -1,5 +1,5 @@
 {
-  description = "Custom Nix packages maintained by mpriscella.";
+  description = "Custom Nix packages maintained by Mike Priscella.";
 
   inputs = {
     nixpkgs = {
